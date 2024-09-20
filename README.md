@@ -1,7 +1,16 @@
 # Educational Material Multi-Agent System
 
-This project implements a multi-agent system using the `uAgents` framework to automate the creation of educational materials, such as worksheets, tests, performance tasks, and rubrics. Each agent is responsible for a specific task and communicates with other agents to complete the overall workflow.
+This project implements a sophisticated multi-agent system using the uAgents framework to automate the creation of educational materials, including worksheets, tests, performance tasks, and rubrics. The system is designed with multiple specialized agents, each responsible for a distinct task, and utilizes advanced AI technologies to enhance the content generation process.
 
+Key Features:
+
+Multi-Agent Interaction: Each agent is dedicated to a specific task, such as creating worksheets or generating rubrics. The agents communicate and collaborate with one another via the Coordinator Agent to ensure a seamless and coherent workflow.
+GPT-4 Integration: The agents leverage OpenAI's GPT-4 to generate high-quality, detailed educational content, including textual descriptions, questions, and structured tasks.
+DALL·E Integration: For tasks requiring visual content, such as diagrams or illustrations, the system integrates with OpenAI’s DALL·E to automatically generate relevant images, enhancing the educational materials created.
+
+Why uAgents?
+
+The uAgents framework is at the core of this project, providing a scalable and flexible architecture for developing AI-driven applications. By utilizing uAgents, this project demonstrates the power of multi-agent systems in managing complex workflows, where each agent can focus on its specific role while ensuring the overall system works in harmony.
 ## Installation
 
 1. Clone the repository:

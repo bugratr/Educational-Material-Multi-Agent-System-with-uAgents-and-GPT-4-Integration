@@ -6,7 +6,8 @@ This project implements a multi-agent system using the `uAgents` framework to au
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/bugratr/educational-material-multi-agent-system.git
+   git clone https://github.com/bugratr/Educational-Material-Multi-Agent-System-with-uAgents-and-GPT-4-Integration.git
+
    ```
 2. Navigate to the project directory:
    ```bash
